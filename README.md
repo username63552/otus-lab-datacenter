@@ -1,14 +1,15 @@
 # otus-lab-datacenter
 
-### IP адресация
 
-spine: 
+
+#### spine: 
 labsw01 labsw02  ASN:65001
 
-leaf: 
-labsw03 labsw04   ASN:65003
-labsw05 labsw06   ASN:65004
+#### leaf: 
+##### labsw03 labsw04   ASN:65003
+##### labsw05 labsw06   ASN:65004
 
+### IP адресация
 labsw01
 |Device|Interface|IP Address|Subnet Mask
 |---|---|---|---|
