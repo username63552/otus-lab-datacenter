@@ -3,6 +3,7 @@
 ### IP адресация
 
 spine: labsw01 labsw02
+
 leaf: labsw03 labsw04 labsw05 labsw06
 
 labsw01
