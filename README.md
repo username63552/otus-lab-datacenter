@@ -2,9 +2,12 @@
 
 ### IP адресация
 
-spine: labsw01 labsw02
+spine: 
+labsw01 labsw02  ASN:65001
 
-leaf: labsw03 labsw04 labsw05 labsw06
+leaf: 
+labsw03 labsw04   ASN:65003
+labsw05 labsw06   ASN:65004
 
 labsw01
 |Device|Interface|IP Address|Subnet Mask
